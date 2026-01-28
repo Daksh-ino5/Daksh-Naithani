@@ -6,16 +6,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Robotics+Engineer+in+the+Making;IoT+%7C+ROS+%7C+Operating+Systems;Building+Real-World+Intelligent+Systems&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Robotics+Engineer+in+the+Making;IoT+%7C+ROS+%7C+Autonomous+Systems;Building+Real-World+Intelligent+Machines&center=true&width=750&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me 🤖
-- 🎯 Deeply passionate about **Robotics, Embedded Systems & Cybersecurity**
+- 🎯 Deeply passionate about **Robotics, Embedded Systems, Autonomous Systems & Cybersecurity**
 - 🤖 Built real-world systems like **Romeo (Voice Assistant)** & **Sandy (Intelligent Robot)**
-- 🌱 Currently exploring **ROS, CCNA Networking & System-Level Programming**
-- 💡 I enjoy converting **ideas → hardware → working systems**
+- 🚁 Hands-on experience in **designing & tuning self-stabilizing drones**
+- 🚙 Built **autonomous & semi-autonomous rovers** with sensor fusion
+- 🌱 Currently exploring **ROS, ArduPilot, CCNA Networking & System-Level Programming**
+- 💡 I enjoy converting **ideas → control logic → hardware → working systems**
 
 ---
 
@@ -39,16 +41,29 @@
 
 ---
 
-### 🤖 Robotics • Embedded Systems • IoT
+### 🤖 Robotics • Embedded Systems • Autonomous Vehicles
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-- Arduino   
+- Arduino  
 - ESP8266  
-- Raspberry Pi 3/4/5  
-- Pixhawk Arducopter  
-- Ultrasonic Sensors, Servos, Relays  
+- Raspberry Pi 3 / 4 / 5  
+- Pixhawk (ArduCopter / ArduRover)  
+- Ultrasonic Sensors, IMU, GPS, Servos, Relays  
+
+---
+
+### 🚁 Drone Systems • Autopilots • GCS
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ArduPilot/ardupilot/master/Tools/Logos/ArduPilot_logo.png" height="45" />
+  <img src="https://ardupilot.org/planner/_images/mission-planner-icon.png" height="45" />
+</p>
+
+- Mission Planner (Ground Control Station)  
+- PID Tuning & Flight Stabilization  
+- Self-stabilizing Multirotor Drones  
+- Failsafe Configuration & Telemetry  
 
 ---
 
@@ -59,7 +74,6 @@
 
 - Linux  
 - TCP / UDP • VLANs  
-   
 
 ---
 
@@ -69,7 +83,7 @@
 </p>
 
 - Git & GitHub  
-- ROS (Robot Operating System)    
+- ROS (Robot Operating System)  
 - ThingSpeak (IoT Analytics)  
 
 ---
@@ -78,7 +92,8 @@
 
 | 🤖 Project | 📝 Description | ⚙ Tech Stack |
 |-----------|---------------|-------------|
-|🤖 **Sandy** | Intelligent robot with ROS & sensor fusion | ROS, Raspberry Pi | 
+| 🤖 **Sandy** | Intelligent robot with ROS & sensor fusion | ROS, Raspberry Pi |
+| 🚁 **Self-Stabilizing Drone** | Autonomous multirotor with PID tuning | Pixhawk, ArduPilot, Mission Planner |
 | 🎙️ **Romeo** | Voice-controlled personal robotic assistant | Python, Arduino, Raspberry Pi |
 | 🌱 **Environmental Monitoring System** | Real-time IoT data logging | ESP8266, Sensors, ThingSpeak |
 | ⚙ **OS Interrupt Handling Simulator** | Priority-based interrupt simulation | Python |
