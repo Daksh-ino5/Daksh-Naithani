@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=HI+I'M+DAKSH+NAITHANI;ROBOTICS+%7C+AUTONOMOUS+SYSTEMS;🎓 B.Tech Final Year Student;BUILDING+INTELLIGENT+MACHINES" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=90&section=header&text=HI%20I'M%20DAKSH%20NAITHANI&fontSize=34&fontColor=00FFCC&fontAlignY=60&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <b>🤖 Robotics • Autonomous Systems • IoT • Drones</b>
+</p>
 
 <p align="center">
-⚡ <em>“The future belongs to those who design, build, and control intelligent systems.”</em>
+  🎓 <b>B.Tech Final Year Student</b>
+</p>
+
+<p align="center">
+  <span style="color:#FF4500; text-shadow: 0 0 8px #FF4500;">
+    🔥 “The future belongs to those who design, build, and control intelligent systems.”
+  </span>
 </p>
 
 ---
@@ -20,35 +29,29 @@
 
 ## 🧠 Tech Stack ⚙️
 
-**Languages:**  Python • C • C++ • JavaScript  
+**Languages:** Python, C, C++, JavaScript  
 
-**Libraries & Tools:**  NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn  TensorFlow • PyTorch • OpenCV  
+**Libraries & Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, OpenCV  
 
-**Hardware:**  Arduino • Pixhawk • Ultrasonic Sensors  
+**Hardware:** Arduino, Pixhawk, Ultrasonic Sensors  
 
-**Other Skills:**  Data Cleaning • Web Development • Image Processing  
+**Other Skills:** Data Cleaning, Web Development, Image Processing  
 
 ---
 
 ## 🏗️ Featured Projects 🚀
 
-### 🟡 <span style="color:#FFD700; text-shadow: 0 0 8px #FFD700;">SANDY – Intelligent Robot</span>
-Autonomous robotic platform focused on navigation, sensing, and ROS-based control.
+### 🟡 <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">SANDY – Intelligent Robot</span>
+Autonomous robotic platform built for navigation, sensing, and ROS-based control.
 
----
+### 🟠 <span style="color:#FF8C00; text-shadow:0 0 6px #FF8C00;">ROMEO – Voice Interaction System</span>
+Speech-driven assistant designed to interface with hardware and system services.
 
-### 🟠 <span style="color:#FF8C00; text-shadow: 0 0 8px #FF8C00;">ROMEO – Voice Interaction System</span>
-Speech-driven assistant designed to interact with hardware modules and system services.
+### 🔵 <span style="color:#00BFFF; text-shadow:0 0 6px #00BFFF;">SELF-STABILIZING DRONE PLATFORM</span>
+Multirotor system emphasizing PID tuning, flight stability, and control logic.
 
----
-
-### 🔵 <span style="color:#00BFFF; text-shadow: 0 0 8px #00BFFF;">SELF-STABILIZING DRONE PLATFORM</span>
-Multirotor system emphasizing PID tuning, flight stability, and control algorithms.
-
----
-
-### 🟢 <span style="color:#00FF7F; text-shadow: 0 0 8px #00FF7F;">ENVIRONMENTAL MONITORING SYSTEM</span>
-IoT-based solution for collecting, transmitting, and visualizing sensor data in real time.
+### 🟢 <span style="color:#00FF7F; text-shadow:0 0 6px #00FF7F;">ENVIRONMENTAL MONITORING SYSTEM</span>
+IoT-based solution for collecting, transmitting, and visualizing sensor data.
 
 ---
 
