@@ -15,8 +15,6 @@
 - 🎯 Deeply passionate about **Robotics, Embedded Systems & Cybersecurity**
 - 🤖 Built real-world systems like **Romeo (Voice Assistant)** & **Sandy (Intelligent Robot)**
 - 🌱 Currently exploring **ROS, CCNA Networking & System-Level Programming**
-- ⚙ Strong foundation in **Operating Systems**  
-  *(Interrupts, Scheduling, Deadlocks, Paging)*
 - 💡 I enjoy converting **ideas → hardware → working systems**
 
 ---
@@ -46,22 +44,22 @@
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-- Arduino (Uno, Mega)  
+- Arduino   
 - ESP8266  
-- Raspberry Pi 3B  
-- Pixhawk  
+- Raspberry Pi 3/4/5  
+- Pixhawk Arducopter  
 - Ultrasonic Sensors, Servos, Relays  
 
 ---
 
-### 🌐 Systems • Networking • OS
+### 🌐 Systems • Networking
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 - Linux  
 - TCP / UDP • VLANs  
-- Operating Systems Internals  
+   
 
 ---
 
@@ -71,8 +69,7 @@
 </p>
 
 - Git & GitHub  
-- ROS (Robot Operating System)  
-- MATLAB & Simulink  
+- ROS (Robot Operating System)    
 - ThingSpeak (IoT Analytics)  
 
 ---
@@ -81,8 +78,8 @@
 
 | 🤖 Project | 📝 Description | ⚙ Tech Stack |
 |-----------|---------------|-------------|
+|🤖 **Sandy** | Intelligent robot with ROS & sensor fusion | ROS, Raspberry Pi | 
 | 🎙️ **Romeo** | Voice-controlled personal robotic assistant | Python, Arduino, Raspberry Pi |
-| 🤖 **Sandy** | Intelligent robot with ROS & sensor fusion | ROS, Raspberry Pi |
 | 🌱 **Environmental Monitoring System** | Real-time IoT data logging | ESP8266, Sensors, ThingSpeak |
 | ⚙ **OS Interrupt Handling Simulator** | Priority-based interrupt simulation | Python |
 | 🔐 **Device Fingerprint Spoofing** | Network & behavioral fingerprint research | Python, Networking |
