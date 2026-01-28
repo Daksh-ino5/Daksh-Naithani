@@ -55,9 +55,16 @@ IoT-based solution for collecting, transmitting, and visualizing sensor data.
 
 ---
 
-## 🌐 Connect With Me 🌍
-💼 **LinkedIn:** https://www.linkedin.com/in/daksh-naithani/  
-📧 **Email:** dakshnaithani2004@gmail.com  
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daksh-naithani-27b8a436a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Daksh%20Naithani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dakshnaithani2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dakshnaithani2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -68,4 +75,3 @@ IoT-based solution for collecting, transmitting, and visualizing sensor data.
 <p align="center">
 ⭐ If you like my work, feel free to star repositories or connect with me!
 </p>
-
