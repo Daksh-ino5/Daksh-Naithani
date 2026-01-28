@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=HI+I'M+DAKSH+NAITHANI;ROBOTICS+%7C+AUTONOMOUS+SYSTEMS;BUILDING+INTELLIGENT+MACHINES" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=HI+I'M+DAKSH+NAITHANI;ROBOTICS+%7C+AUTONOMOUS+SYSTEMS;🎓 B.Tech Final Year Student;BUILDING+INTELLIGENT+MACHINES" />
 </p>
 
-<p align="center">
-🎓 B.Tech Final Year Student  
-</p>
 
 <p align="center">
 ⚡ <em>“The future belongs to those who design, build, and control intelligent systems.”</em>
@@ -23,18 +20,13 @@
 
 ## 🧠 Tech Stack ⚙️
 
-**Languages:**  
-Python • C • C++ • JavaScript  
+**Languages:**  Python • C • C++ • JavaScript  
 
-**Libraries & Tools:**  
-NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn  
-TensorFlow • PyTorch • OpenCV  
+**Libraries & Tools:**  NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn  TensorFlow • PyTorch • OpenCV  
 
-**Hardware:**  
-Arduino • Pixhawk • Ultrasonic Sensors  
+**Hardware:**  Arduino • Pixhawk • Ultrasonic Sensors  
 
-**Other Skills:**  
-Data Cleaning • Web Development • Image Processing  
+**Other Skills:**  Data Cleaning • Web Development • Image Processing  
 
 ---
 
