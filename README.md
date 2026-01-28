@@ -10,8 +10,9 @@
   🎓 <b>B.Tech Final Year Student</b>
 </p>
 
+<!-- 🔥 FIRE QUOTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1000&color=FF6A00&center=true&width=900&lines=THE+FUTURE+BELONGS+TO+THOSE+WHO+BUILD+INTELLIGENT+MACHINES" />
+  <img src="https://flamingtext.com/net-fu/proxy_form.cgi?script=fire-logo&text=THE+FUTURE+BELONGS+TO+THOSE+WHO+BUILD" />
 </p>
 
 ---
@@ -39,16 +40,22 @@
 
 ## 🏗️ Featured Projects 🚀
 
-### 🟨 <span style="color:#FFD700;">SANDY – Intelligent Robot</span>
+### 🟨 <span style="color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;">SANDY – Intelligent Robot</span>
 Autonomous robotic platform built for navigation, sensing, and ROS-based control.
 
-### 🟧 <span style="color:#FF8C00;">ROMEO – Voice Interaction System</span>
+---
+
+### 🟧 <span style="color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;">ROMEO – Voice Interaction System</span>
 Speech-driven assistant designed to interface with hardware and system services.
 
-### 🟦 <span style="color:#1E90FF;">SELF-STABILIZING DRONE PLATFORM</span>
+---
+
+### 🟦 <span style="color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;">SELF-STABILIZING DRONE PLATFORM</span>
 Multirotor system emphasizing PID tuning, flight stability, and control logic.
 
-### 🟩 <span style="color:#2ECC71;">ENVIRONMENTAL MONITORING SYSTEM</span>
+---
+
+### 🟩 <span style="color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;">ENVIRONMENTAL MONITORING SYSTEM</span>
 IoT-based solution for collecting, transmitting, and visualizing sensor data.
 
 ---
