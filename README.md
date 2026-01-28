@@ -1,124 +1,75 @@
-<h1 align="center">Hi 👋, I'm Daksh Naithani</h1>
-<h3 align="center">B.Tech Final Year | Robotics • IoT • Systems • Networking</h3>
+<h2 align="center">🤖 Hi 👋, I'm Daksh Naithani</h2>
 
 <p align="center">
-  <em>⚡ I don’t just learn technology — I engineer it.</em>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Robotics+Engineer+in+the+Making;Autonomous+Systems+%7C+IoT+%7C+Drones;I+Build+Real+Machines+Not+Just+Code&center=true&width=700&height=40">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Robotics+Engineer+in+the+Making;IoT+%7C+ROS+%7C+Autonomous+Systems;Building+Real-World+Intelligent+Machines&center=true&width=750&height=45">
+🎓 B.Tech Final Year Student  
+</p>
+
+<p align="center">
+⚡ <em>“The future belongs to those who build intelligent machines — I don’t just follow it, I engineer it.”</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me 🤖
-- 🎯 Deeply passionate about **Robotics, Embedded Systems, Autonomous Systems & Cybersecurity**
-- 🤖 Built real-world systems like **Romeo (Voice Assistant)** & **Sandy (Intelligent Robot)**
-- 🚁 Hands-on experience in **designing & tuning self-stabilizing drones**
-- 🚙 Built **autonomous & semi-autonomous rovers** with sensor fusion
-- 🌱 Currently exploring **ROS, ArduPilot, CCNA Networking & System-Level Programming**
-- 💡 I enjoy converting **ideas → control logic → hardware → working systems**
+🎯 Exploring **Robotics, Autonomous Systems & Networking**  
+💡 Passionate about **Robotics, IoT, Embedded Systems & Cybersecurity**  
+🚀 Building **Sandy Intelligent Robot, Romeo Voice Assistant & Self-Stabilizing Drones**  
+🚁 Hands-on experience with **drones, rovers & control systems**  
+🤖 Robotics Enthusiast | 🌍 Tech Explorer  
 
 ---
 
-## 🧠 Tech Stack & Tools ⚙️
+## 🧠 Tech Stack ⚙️
 
-### 🧠 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
-</p>
+**Languages**  
+Python • C • C++ • JavaScript  
 
----
+**Libraries & Tools**  
+NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn  
+TensorFlow • PyTorch • OpenCV  
 
-### 📊 AI / ML • Data Science • Computer Vision
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+**Hardware**  
+Arduino • Pixhawk • Ultrasonic Sensors  
 
-- NumPy • Pandas • Scikit-learn  
-- Matplotlib • Seaborn  
-- Data Cleaning • Image Processing  
-
----
-
-### 🤖 Robotics • Embedded Systems • Autonomous Vehicles
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-- Arduino  
-- ESP8266  
-- Raspberry Pi 3 / 4 / 5  
-- Pixhawk (ArduCopter / ArduRover)  
-- Ultrasonic Sensors, IMU, GPS, Servos, Relays  
-
----
-
-### 🚁 Drone Systems • Autopilots • GCS
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ArduPilot/ardupilot/master/Tools/Logos/ArduPilot_logo.png" height="45" />
-  <img src="https://ardupilot.org/planner/_images/mission-planner-icon.png" height="45" />
-</p>
-
-- Mission Planner (Ground Control Station)  
-- PID Tuning & Flight Stabilization  
-- Self-stabilizing Multirotor Drones  
-- Failsafe Configuration & Telemetry  
-
----
-
-### 🌐 Systems • Networking
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-- Linux  
-- TCP / UDP • VLANs  
-
----
-
-### ⚙ Development Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,mongodb" />
-</p>
-
-- Git & GitHub  
-- ROS (Robot Operating System)  
-- ThingSpeak (IoT Analytics)  
+**Other Skills**  
+Data Cleaning • Web Development • Image Processing  
 
 ---
 
 ## 🏗️ Featured Projects 🚀
 
-| 🤖 Project | 📝 Description | ⚙ Tech Stack |
-|-----------|---------------|-------------|
-| 🤖 **Sandy** | Intelligent robot with ROS & sensor fusion | ROS, Raspberry Pi |
-| 🚁 **Self-Stabilizing Drone** | Autonomous multirotor with PID tuning | Pixhawk, ArduPilot, Mission Planner |
-| 🎙️ **Romeo** | Voice-controlled personal robotic assistant | Python, Arduino, Raspberry Pi |
-| 🌱 **Environmental Monitoring System** | Real-time IoT data logging | ESP8266, Sensors, ThingSpeak |
-| ⚙ **OS Interrupt Handling Simulator** | Priority-based interrupt simulation | Python |
-| 🔐 **Device Fingerprint Spoofing** | Network & behavioral fingerprint research | Python, Networking |
+🎙️ **Romeo Voice Assistant**  
+Voice-controlled robotic assistant  
+*Python, Arduino, Raspberry Pi*
 
----
+🤖 **Sandy Intelligent Robot**  
+ROS-based autonomous robot  
+*ROS, Raspberry Pi*
 
-## 📊 GitHub Stats 📈
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshnaithani&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshnaithani&layout=compact&theme=tokyonight" width="48%" />
-</p>
+🚁 **Self-Stabilizing Drone**  
+Autonomous multirotor with PID tuning  
+*Pixhawk, ArduPilot, Mission Planner*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dakshnaithani&theme=tokyonight" />
-</p>
+🌱 **Environmental Monitoring System**  
+Real-time IoT data logging  
+*ESP8266, Sensors*
 
 ---
 
 ## 🌐 Connect With Me 🌍
-- 💼 LinkedIn: *(add your LinkedIn link)*
-- 📧 Email: *(add your email)*
+💼 LinkedIn: https://www.linkedin.com/in/daksh-naithani-27b8a436a/  
+📧 Email: dakshnaithani2004@gmail.com  
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to <b>star</b> ⭐ repositories or connect with me!
+<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/robot.gif" width="180"/>
+</p>
+
+<p align="center">
+⭐ If you like my work, feel free to star repositories or connect with me!
 </p>
